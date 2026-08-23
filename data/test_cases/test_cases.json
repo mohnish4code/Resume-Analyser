@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "domain": "ml_engineer",
+    "job_title": "Machine Learning Engineer",
+    "expected_match_level": "weak",
+    "resume_text": "Aarav Mehta\naarav.mehta0@email.com | 9734036506 | linkedin.com/in/aaravmehta\n\nEducation\nB.Tech in Computer Science, XYZ Institute of Technology, 2025, CGPA 8.2\n\nSkills\ndocker, kubernetes, aws\n\nExperience\n2026 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on machine learning engineer related tasks using docker\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 10%\n\nProjects\nMachine Learning Engineer Mini Project\n- Built a project applying docker, kubernetes, aws\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Machine Learning Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql\nPreferred Skills: docker, kubernetes, aws, mlops, nlp, computer vision\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 2,
+    "domain": "ml_engineer",
+    "job_title": "Machine Learning Engineer",
+    "expected_match_level": "moderate",
+    "resume_text": "Diya Patel\ndiya.patel1@email.com | 9349817734 | linkedin.com/in/diyapatel\n\nEducation\nB.E. in Electronics and Computer Engineering, ABC University, 2026, CGPA 7.9\n\nSkills\npython, tensorflow, pytorch, machine learning\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on machine learning engineer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 27%\n\nProjects\nMachine Learning Engineer Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nGoogle Data Analytics Certificate\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Machine Learning Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql\nPreferred Skills: docker, kubernetes, aws, mlops, nlp, computer vision\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 3,
+    "domain": "ml_engineer",
+    "job_title": "Machine Learning Engineer",
+    "expected_match_level": "strong",
+    "resume_text": "Rohan Verma\nrohan.verma2@email.com | 9797808098 | linkedin.com/in/rohanverma\n\nEducation\nM.Tech in Data Science, National Institute of Technology, 2024\n\nSkills\npython, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql, docker, kubernetes\n\nExperience\n2022 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on machine learning engineer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 27%\n\nProjects\nMachine Learning Engineer Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Machine Learning Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql\nPreferred Skills: docker, kubernetes, aws, mlops, nlp, computer vision\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 4,
+    "domain": "ml_engineer",
+    "job_title": "Machine Learning Engineer",
+    "expected_match_level": "weak",
+    "resume_text": "Isha Kapoor\nisha.kapoor3@email.com | 9582334538 | linkedin.com/in/ishakapoor\n\nEducation\nBachelor of Computer Applications, State University, 2023\n\nSkills\nsql, excel, python\n\nExperience\n2026 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on machine learning engineer related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 34%\n\nProjects\nMachine Learning Engineer Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nGoogle Data Analytics Certificate\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Machine Learning Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql\nPreferred Skills: docker, kubernetes, aws, mlops, nlp, computer vision\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 5,
+    "domain": "ml_engineer",
+    "job_title": "Machine Learning Engineer",
+    "expected_match_level": "moderate",
+    "resume_text": "Karan Singh\nkaran.singh4@email.com | 9553778756 | linkedin.com/in/karansingh\n\nEducation\nDiploma in Computer Engineering, City Polytechnic, 2022\n\nSkills\npython, tensorflow, pytorch, machine learning\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on machine learning engineer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 18%\n\nProjects\nMachine Learning Engineer Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nGoogle Data Analytics Certificate\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Machine Learning Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql\nPreferred Skills: docker, kubernetes, aws, mlops, nlp, computer vision\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 6,
+    "domain": "ml_engineer",
+    "job_title": "Machine Learning Engineer",
+    "expected_match_level": "weak",
+    "resume_text": "Ananya Rao\nananya.rao5@email.com | 9919795579 | linkedin.com/in/ananyarao\n\nEducation\nB.Tech in Computer Science, XYZ Institute of Technology, 2025, CGPA 8.2\n\nSkills\nsql, excel, python\n\nExperience\n2026 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on machine learning engineer related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 12%\n\nProjects\nMachine Learning Engineer Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Machine Learning Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql\nPreferred Skills: docker, kubernetes, aws, mlops, nlp, computer vision\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 7,
+    "domain": "ml_engineer",
+    "job_title": "Machine Learning Engineer",
+    "expected_match_level": "weak",
+    "resume_text": "Vikram Nair\nvikram.nair6@email.com | 9485451171 | linkedin.com/in/vikramnair\n\nEducation\nB.E. in Electronics and Computer Engineering, ABC University, 2026, CGPA 7.9\n\nSkills\nsql, excel, python\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on machine learning engineer related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 35%\n\nProjects\nMachine Learning Engineer Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Machine Learning Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql\nPreferred Skills: docker, kubernetes, aws, mlops, nlp, computer vision\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 8,
+    "domain": "ml_engineer",
+    "job_title": "Machine Learning Engineer",
+    "expected_match_level": "moderate",
+    "resume_text": "Priya Iyer\npriya.iyer7@email.com | 9593303705 | linkedin.com/in/priyaiyer\n\nEducation\nM.Tech in Data Science, National Institute of Technology, 2024\n\nSkills\npython, tensorflow, pytorch, machine learning\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on machine learning engineer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 39%\n\nProjects\nMachine Learning Engineer Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Machine Learning Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql\nPreferred Skills: docker, kubernetes, aws, mlops, nlp, computer vision\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 9,
+    "domain": "ml_engineer",
+    "job_title": "Machine Learning Engineer",
+    "expected_match_level": "strong",
+    "resume_text": "Arjun Reddy\narjun.reddy8@email.com | 9692749116 | linkedin.com/in/arjunreddy\n\nEducation\nBachelor of Computer Applications, State University, 2023\n\nSkills\npython, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql, docker, kubernetes\n\nExperience\n2023 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on machine learning engineer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 36%\n\nProjects\nMachine Learning Engineer Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nScrum Master Certified\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Machine Learning Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql\nPreferred Skills: docker, kubernetes, aws, mlops, nlp, computer vision\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 10,
+    "domain": "ml_engineer",
+    "job_title": "Machine Learning Engineer",
+    "expected_match_level": "strong",
+    "resume_text": "Sneha Gupta\nsneha.gupta9@email.com | 9306468299 | linkedin.com/in/snehagupta\n\nEducation\nDiploma in Computer Engineering, City Polytechnic, 2022\n\nSkills\npython, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql, docker, kubernetes\n\nExperience\n2022 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on machine learning engineer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 12%\n\nProjects\nMachine Learning Engineer Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Machine Learning Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, tensorflow, pytorch, machine learning, deep learning, scikit-learn, pandas, numpy, sql\nPreferred Skills: docker, kubernetes, aws, mlops, nlp, computer vision\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 11,
+    "domain": "backend_dev",
+    "job_title": "Backend Developer",
+    "expected_match_level": "weak",
+    "resume_text": "Aarav Mehta\naarav.mehta10@email.com | 9782560971 | linkedin.com/in/aaravmehta\n\nEducation\nB.Tech in Computer Science, XYZ Institute of Technology, 2025, CGPA 8.2\n\nSkills\nsql, excel, python\n\nExperience\n2026 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on backend developer related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 21%\n\nProjects\nBackend Developer Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nScrum Master Certified\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Backend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, django, flask, fastapi, sql, postgresql, rest api, git\nPreferred Skills: docker, kubernetes, redis, microservices, aws\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 12,
+    "domain": "backend_dev",
+    "job_title": "Backend Developer",
+    "expected_match_level": "strong",
+    "resume_text": "Diya Patel\ndiya.patel11@email.com | 9819595113 | linkedin.com/in/diyapatel\n\nEducation\nB.E. in Electronics and Computer Engineering, ABC University, 2026, CGPA 7.9\n\nSkills\npython, django, flask, fastapi, sql, postgresql, rest api, git, docker, kubernetes\n\nExperience\n2023 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on backend developer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 32%\n\nProjects\nBackend Developer Mini Project\n- Built a project applying python, django, flask\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Backend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, django, flask, fastapi, sql, postgresql, rest api, git\nPreferred Skills: docker, kubernetes, redis, microservices, aws\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 13,
+    "domain": "backend_dev",
+    "job_title": "Backend Developer",
+    "expected_match_level": "moderate",
+    "resume_text": "Rohan Verma\nrohan.verma12@email.com | 9781802744 | linkedin.com/in/rohanverma\n\nEducation\nM.Tech in Data Science, National Institute of Technology, 2024\n\nSkills\npython, django, flask, fastapi\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on backend developer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 27%\n\nProjects\nBackend Developer Mini Project\n- Built a project applying python, django, flask\n- Achieved measurable improvement in project outcomes\n\nCertifications\nGoogle Data Analytics Certificate\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Backend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, django, flask, fastapi, sql, postgresql, rest api, git\nPreferred Skills: docker, kubernetes, redis, microservices, aws\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 14,
+    "domain": "backend_dev",
+    "job_title": "Backend Developer",
+    "expected_match_level": "weak",
+    "resume_text": "Isha Kapoor\nisha.kapoor13@email.com | 9596348124 | linkedin.com/in/ishakapoor\n\nEducation\nBachelor of Computer Applications, State University, 2023\n\nSkills\ndocker, kubernetes, aws\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on backend developer related tasks using docker\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 39%\n\nProjects\nBackend Developer Mini Project\n- Built a project applying docker, kubernetes, aws\n- Achieved measurable improvement in project outcomes\n\nCertifications\nGoogle Data Analytics Certificate\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Backend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, django, flask, fastapi, sql, postgresql, rest api, git\nPreferred Skills: docker, kubernetes, redis, microservices, aws\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 15,
+    "domain": "backend_dev",
+    "job_title": "Backend Developer",
+    "expected_match_level": "strong",
+    "resume_text": "Karan Singh\nkaran.singh14@email.com | 9448195935 | linkedin.com/in/karansingh\n\nEducation\nDiploma in Computer Engineering, City Polytechnic, 2022\n\nSkills\npython, django, flask, fastapi, sql, postgresql, rest api, git, docker, kubernetes\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on backend developer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 17%\n\nProjects\nBackend Developer Mini Project\n- Built a project applying python, django, flask\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2024 hackathon\n",
+    "job_description_text": "We are hiring a Backend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, django, flask, fastapi, sql, postgresql, rest api, git\nPreferred Skills: docker, kubernetes, redis, microservices, aws\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 16,
+    "domain": "backend_dev",
+    "job_title": "Backend Developer",
+    "expected_match_level": "weak",
+    "resume_text": "Ananya Rao\nananya.rao15@email.com | 9530747414 | linkedin.com/in/ananyarao\n\nEducation\nB.Tech in Computer Science, XYZ Institute of Technology, 2025, CGPA 8.2\n\nSkills\nsql, excel, python\n\nExperience\n2026 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on backend developer related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 16%\n\nProjects\nBackend Developer Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nScrum Master Certified\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Backend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, django, flask, fastapi, sql, postgresql, rest api, git\nPreferred Skills: docker, kubernetes, redis, microservices, aws\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 17,
+    "domain": "backend_dev",
+    "job_title": "Backend Developer",
+    "expected_match_level": "weak",
+    "resume_text": "Vikram Nair\nvikram.nair16@email.com | 9803771909 | linkedin.com/in/vikramnair\n\nEducation\nB.E. in Electronics and Computer Engineering, ABC University, 2026, CGPA 7.9\n\nSkills\ndocker, kubernetes, aws\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on backend developer related tasks using docker\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 38%\n\nProjects\nBackend Developer Mini Project\n- Built a project applying docker, kubernetes, aws\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Backend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, django, flask, fastapi, sql, postgresql, rest api, git\nPreferred Skills: docker, kubernetes, redis, microservices, aws\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 18,
+    "domain": "backend_dev",
+    "job_title": "Backend Developer",
+    "expected_match_level": "strong",
+    "resume_text": "Priya Iyer\npriya.iyer17@email.com | 9384412919 | linkedin.com/in/priyaiyer\n\nEducation\nM.Tech in Data Science, National Institute of Technology, 2024\n\nSkills\npython, django, flask, fastapi, sql, postgresql, rest api, git, docker, kubernetes\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on backend developer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 17%\n\nProjects\nBackend Developer Mini Project\n- Built a project applying python, django, flask\n- Achieved measurable improvement in project outcomes\n\nCertifications\nScrum Master Certified\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Backend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, django, flask, fastapi, sql, postgresql, rest api, git\nPreferred Skills: docker, kubernetes, redis, microservices, aws\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 19,
+    "domain": "backend_dev",
+    "job_title": "Backend Developer",
+    "expected_match_level": "moderate",
+    "resume_text": "Arjun Reddy\narjun.reddy18@email.com | 9727694430 | linkedin.com/in/arjunreddy\n\nEducation\nBachelor of Computer Applications, State University, 2023\n\nSkills\npython, django, flask, fastapi\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on backend developer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 38%\n\nProjects\nBackend Developer Mini Project\n- Built a project applying python, django, flask\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2024 hackathon\n",
+    "job_description_text": "We are hiring a Backend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, django, flask, fastapi, sql, postgresql, rest api, git\nPreferred Skills: docker, kubernetes, redis, microservices, aws\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 20,
+    "domain": "backend_dev",
+    "job_title": "Backend Developer",
+    "expected_match_level": "moderate",
+    "resume_text": "Sneha Gupta\nsneha.gupta19@email.com | 9335493870 | linkedin.com/in/snehagupta\n\nEducation\nDiploma in Computer Engineering, City Polytechnic, 2022\n\nSkills\npython, django, flask, fastapi\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on backend developer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 26%\n\nProjects\nBackend Developer Mini Project\n- Built a project applying python, django, flask\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Backend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: python, django, flask, fastapi, sql, postgresql, rest api, git\nPreferred Skills: docker, kubernetes, redis, microservices, aws\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 21,
+    "domain": "frontend_dev",
+    "job_title": "Frontend Developer",
+    "expected_match_level": "moderate",
+    "resume_text": "Aarav Mehta\naarav.mehta20@email.com | 9739830322 | linkedin.com/in/aaravmehta\n\nEducation\nB.Tech in Computer Science, XYZ Institute of Technology, 2025, CGPA 8.2\n\nSkills\njavascript, react, html\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on frontend developer related tasks using javascript\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 26%\n\nProjects\nFrontend Developer Mini Project\n- Built a project applying javascript, react, html\n- Achieved measurable improvement in project outcomes\n\nCertifications\nScrum Master Certified\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Frontend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: javascript, react, html, css, typescript, git\nPreferred Skills: next.js, redux, tailwind, figma\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 22,
+    "domain": "frontend_dev",
+    "job_title": "Frontend Developer",
+    "expected_match_level": "weak",
+    "resume_text": "Diya Patel\ndiya.patel21@email.com | 9112327652 | linkedin.com/in/diyapatel\n\nEducation\nB.E. in Electronics and Computer Engineering, ABC University, 2026, CGPA 7.9\n\nSkills\npython, tensorflow, pytorch\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on frontend developer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 34%\n\nProjects\nFrontend Developer Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nScrum Master Certified\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Frontend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: javascript, react, html, css, typescript, git\nPreferred Skills: next.js, redux, tailwind, figma\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 23,
+    "domain": "frontend_dev",
+    "job_title": "Frontend Developer",
+    "expected_match_level": "weak",
+    "resume_text": "Rohan Verma\nrohan.verma22@email.com | 9415143362 | linkedin.com/in/rohanverma\n\nEducation\nM.Tech in Data Science, National Institute of Technology, 2024\n\nSkills\ndocker, kubernetes, aws\n\nExperience\n2026 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on frontend developer related tasks using docker\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 24%\n\nProjects\nFrontend Developer Mini Project\n- Built a project applying docker, kubernetes, aws\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Frontend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: javascript, react, html, css, typescript, git\nPreferred Skills: next.js, redux, tailwind, figma\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 24,
+    "domain": "frontend_dev",
+    "job_title": "Frontend Developer",
+    "expected_match_level": "weak",
+    "resume_text": "Isha Kapoor\nisha.kapoor23@email.com | 9872751234 | linkedin.com/in/ishakapoor\n\nEducation\nBachelor of Computer Applications, State University, 2023\n\nSkills\nsql, excel, python\n\nExperience\n2026 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on frontend developer related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 26%\n\nProjects\nFrontend Developer Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Frontend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: javascript, react, html, css, typescript, git\nPreferred Skills: next.js, redux, tailwind, figma\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 25,
+    "domain": "frontend_dev",
+    "job_title": "Frontend Developer",
+    "expected_match_level": "moderate",
+    "resume_text": "Karan Singh\nkaran.singh24@email.com | 9420452650 | linkedin.com/in/karansingh\n\nEducation\nDiploma in Computer Engineering, City Polytechnic, 2022\n\nSkills\njavascript, react, html\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on frontend developer related tasks using javascript\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 14%\n\nProjects\nFrontend Developer Mini Project\n- Built a project applying javascript, react, html\n- Achieved measurable improvement in project outcomes\n\nCertifications\nScrum Master Certified\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Frontend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: javascript, react, html, css, typescript, git\nPreferred Skills: next.js, redux, tailwind, figma\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 26,
+    "domain": "frontend_dev",
+    "job_title": "Frontend Developer",
+    "expected_match_level": "weak",
+    "resume_text": "Ananya Rao\nananya.rao25@email.com | 9679153816 | linkedin.com/in/ananyarao\n\nEducation\nB.Tech in Computer Science, XYZ Institute of Technology, 2025, CGPA 8.2\n\nSkills\npython, tensorflow, pytorch\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on frontend developer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 25%\n\nProjects\nFrontend Developer Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Frontend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: javascript, react, html, css, typescript, git\nPreferred Skills: next.js, redux, tailwind, figma\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 27,
+    "domain": "frontend_dev",
+    "job_title": "Frontend Developer",
+    "expected_match_level": "moderate",
+    "resume_text": "Vikram Nair\nvikram.nair26@email.com | 9489747629 | linkedin.com/in/vikramnair\n\nEducation\nB.E. in Electronics and Computer Engineering, ABC University, 2026, CGPA 7.9\n\nSkills\njavascript, react, html\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on frontend developer related tasks using javascript\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 17%\n\nProjects\nFrontend Developer Mini Project\n- Built a project applying javascript, react, html\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Frontend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: javascript, react, html, css, typescript, git\nPreferred Skills: next.js, redux, tailwind, figma\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 28,
+    "domain": "frontend_dev",
+    "job_title": "Frontend Developer",
+    "expected_match_level": "strong",
+    "resume_text": "Priya Iyer\npriya.iyer27@email.com | 9709194872 | linkedin.com/in/priyaiyer\n\nEducation\nM.Tech in Data Science, National Institute of Technology, 2024\n\nSkills\njavascript, react, html, css, typescript, git, next.js, redux\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on frontend developer related tasks using javascript\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 12%\n\nProjects\nFrontend Developer Mini Project\n- Built a project applying javascript, react, html\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Frontend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: javascript, react, html, css, typescript, git\nPreferred Skills: next.js, redux, tailwind, figma\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 29,
+    "domain": "frontend_dev",
+    "job_title": "Frontend Developer",
+    "expected_match_level": "strong",
+    "resume_text": "Arjun Reddy\narjun.reddy28@email.com | 9916690353 | linkedin.com/in/arjunreddy\n\nEducation\nBachelor of Computer Applications, State University, 2023\n\nSkills\njavascript, react, html, css, typescript, git, next.js, redux\n\nExperience\n2022 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on frontend developer related tasks using javascript\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 34%\n\nProjects\nFrontend Developer Mini Project\n- Built a project applying javascript, react, html\n- Achieved measurable improvement in project outcomes\n\nCertifications\nGoogle Data Analytics Certificate\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Frontend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: javascript, react, html, css, typescript, git\nPreferred Skills: next.js, redux, tailwind, figma\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 30,
+    "domain": "frontend_dev",
+    "job_title": "Frontend Developer",
+    "expected_match_level": "strong",
+    "resume_text": "Sneha Gupta\nsneha.gupta29@email.com | 9808402051 | linkedin.com/in/snehagupta\n\nEducation\nDiploma in Computer Engineering, City Polytechnic, 2022\n\nSkills\njavascript, react, html, css, typescript, git, next.js, redux\n\nExperience\n2023 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on frontend developer related tasks using javascript\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 40%\n\nProjects\nFrontend Developer Mini Project\n- Built a project applying javascript, react, html\n- Achieved measurable improvement in project outcomes\n\nCertifications\nGoogle Data Analytics Certificate\n\nAchievements\nRecognized as top performer in 2024 hackathon\n",
+    "job_description_text": "We are hiring a Frontend Developer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: javascript, react, html, css, typescript, git\nPreferred Skills: next.js, redux, tailwind, figma\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 31,
+    "domain": "data_analyst",
+    "job_title": "Data Analyst",
+    "expected_match_level": "strong",
+    "resume_text": "Aarav Mehta\naarav.mehta30@email.com | 9570406376 | linkedin.com/in/aaravmehta\n\nEducation\nB.Tech in Computer Science, XYZ Institute of Technology, 2025, CGPA 8.2\n\nSkills\nsql, excel, python, tableau, power bi, statistics, r, machine learning\n\nExperience\n2022 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on data analyst related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 24%\n\nProjects\nData Analyst Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Data Analyst.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: sql, excel, python, tableau, power bi, statistics\nPreferred Skills: r, machine learning, pandas\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 32,
+    "domain": "data_analyst",
+    "job_title": "Data Analyst",
+    "expected_match_level": "weak",
+    "resume_text": "Diya Patel\ndiya.patel31@email.com | 9341266931 | linkedin.com/in/diyapatel\n\nEducation\nB.E. in Electronics and Computer Engineering, ABC University, 2026, CGPA 7.9\n\nSkills\npython, tensorflow, pytorch\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on data analyst related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 10%\n\nProjects\nData Analyst Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nGoogle Data Analytics Certificate\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Data Analyst.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: sql, excel, python, tableau, power bi, statistics\nPreferred Skills: r, machine learning, pandas\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 33,
+    "domain": "data_analyst",
+    "job_title": "Data Analyst",
+    "expected_match_level": "weak",
+    "resume_text": "Rohan Verma\nrohan.verma32@email.com | 9336456621 | linkedin.com/in/rohanverma\n\nEducation\nM.Tech in Data Science, National Institute of Technology, 2024\n\nSkills\npython, tensorflow, pytorch\n\nExperience\n2026 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on data analyst related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 32%\n\nProjects\nData Analyst Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Data Analyst.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: sql, excel, python, tableau, power bi, statistics\nPreferred Skills: r, machine learning, pandas\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 34,
+    "domain": "data_analyst",
+    "job_title": "Data Analyst",
+    "expected_match_level": "strong",
+    "resume_text": "Isha Kapoor\nisha.kapoor33@email.com | 9172370545 | linkedin.com/in/ishakapoor\n\nEducation\nBachelor of Computer Applications, State University, 2023\n\nSkills\nsql, excel, python, tableau, power bi, statistics, r, machine learning\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on data analyst related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 37%\n\nProjects\nData Analyst Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nScrum Master Certified\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Data Analyst.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: sql, excel, python, tableau, power bi, statistics\nPreferred Skills: r, machine learning, pandas\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 35,
+    "domain": "data_analyst",
+    "job_title": "Data Analyst",
+    "expected_match_level": "strong",
+    "resume_text": "Karan Singh\nkaran.singh34@email.com | 9652070932 | linkedin.com/in/karansingh\n\nEducation\nDiploma in Computer Engineering, City Polytechnic, 2022\n\nSkills\nsql, excel, python, tableau, power bi, statistics, r, machine learning\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on data analyst related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 18%\n\nProjects\nData Analyst Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Data Analyst.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: sql, excel, python, tableau, power bi, statistics\nPreferred Skills: r, machine learning, pandas\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 36,
+    "domain": "data_analyst",
+    "job_title": "Data Analyst",
+    "expected_match_level": "moderate",
+    "resume_text": "Ananya Rao\nananya.rao35@email.com | 9678998028 | linkedin.com/in/ananyarao\n\nEducation\nB.Tech in Computer Science, XYZ Institute of Technology, 2025, CGPA 8.2\n\nSkills\nsql, excel, python\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on data analyst related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 33%\n\nProjects\nData Analyst Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Data Analyst.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: sql, excel, python, tableau, power bi, statistics\nPreferred Skills: r, machine learning, pandas\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 37,
+    "domain": "data_analyst",
+    "job_title": "Data Analyst",
+    "expected_match_level": "moderate",
+    "resume_text": "Vikram Nair\nvikram.nair36@email.com | 9942478695 | linkedin.com/in/vikramnair\n\nEducation\nB.E. in Electronics and Computer Engineering, ABC University, 2026, CGPA 7.9\n\nSkills\nsql, excel, python\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on data analyst related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 35%\n\nProjects\nData Analyst Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Data Analyst.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: sql, excel, python, tableau, power bi, statistics\nPreferred Skills: r, machine learning, pandas\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 38,
+    "domain": "data_analyst",
+    "job_title": "Data Analyst",
+    "expected_match_level": "moderate",
+    "resume_text": "Priya Iyer\npriya.iyer37@email.com | 9201281557 | linkedin.com/in/priyaiyer\n\nEducation\nM.Tech in Data Science, National Institute of Technology, 2024\n\nSkills\nsql, excel, python\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on data analyst related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 31%\n\nProjects\nData Analyst Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2024 hackathon\n",
+    "job_description_text": "We are hiring a Data Analyst.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: sql, excel, python, tableau, power bi, statistics\nPreferred Skills: r, machine learning, pandas\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 39,
+    "domain": "data_analyst",
+    "job_title": "Data Analyst",
+    "expected_match_level": "weak",
+    "resume_text": "Arjun Reddy\narjun.reddy38@email.com | 9554814084 | linkedin.com/in/arjunreddy\n\nEducation\nBachelor of Computer Applications, State University, 2023\n\nSkills\ndocker, kubernetes, aws\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on data analyst related tasks using docker\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 37%\n\nProjects\nData Analyst Mini Project\n- Built a project applying docker, kubernetes, aws\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a Data Analyst.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: sql, excel, python, tableau, power bi, statistics\nPreferred Skills: r, machine learning, pandas\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 40,
+    "domain": "data_analyst",
+    "job_title": "Data Analyst",
+    "expected_match_level": "weak",
+    "resume_text": "Sneha Gupta\nsneha.gupta39@email.com | 9801642483 | linkedin.com/in/snehagupta\n\nEducation\nDiploma in Computer Engineering, City Polytechnic, 2022\n\nSkills\npython, tensorflow, pytorch\n\nExperience\n2026 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on data analyst related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 22%\n\nProjects\nData Analyst Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nScrum Master Certified\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a Data Analyst.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: sql, excel, python, tableau, power bi, statistics\nPreferred Skills: r, machine learning, pandas\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 41,
+    "domain": "devops_engineer",
+    "job_title": "DevOps Engineer",
+    "expected_match_level": "strong",
+    "resume_text": "Aarav Mehta\naarav.mehta40@email.com | 9596743109 | linkedin.com/in/aaravmehta\n\nEducation\nB.Tech in Computer Science, XYZ Institute of Technology, 2025, CGPA 8.2\n\nSkills\ndocker, kubernetes, aws, terraform, ci/cd, linux, git, ansible, jenkins\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on devops engineer related tasks using docker\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 37%\n\nProjects\nDevOps Engineer Mini Project\n- Built a project applying docker, kubernetes, aws\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2024 hackathon\n",
+    "job_description_text": "We are hiring a DevOps Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: docker, kubernetes, aws, terraform, ci/cd, linux, git\nPreferred Skills: ansible, jenkins, azure, python\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 42,
+    "domain": "devops_engineer",
+    "job_title": "DevOps Engineer",
+    "expected_match_level": "weak",
+    "resume_text": "Diya Patel\ndiya.patel41@email.com | 9967607278 | linkedin.com/in/diyapatel\n\nEducation\nB.E. in Electronics and Computer Engineering, ABC University, 2026, CGPA 7.9\n\nSkills\npython, tensorflow, pytorch\n\nExperience\n2026 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on devops engineer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 30%\n\nProjects\nDevOps Engineer Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a DevOps Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: docker, kubernetes, aws, terraform, ci/cd, linux, git\nPreferred Skills: ansible, jenkins, azure, python\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 43,
+    "domain": "devops_engineer",
+    "job_title": "DevOps Engineer",
+    "expected_match_level": "strong",
+    "resume_text": "Rohan Verma\nrohan.verma42@email.com | 9909134796 | linkedin.com/in/rohanverma\n\nEducation\nM.Tech in Data Science, National Institute of Technology, 2024\n\nSkills\ndocker, kubernetes, aws, terraform, ci/cd, linux, git, ansible, jenkins\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on devops engineer related tasks using docker\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 15%\n\nProjects\nDevOps Engineer Mini Project\n- Built a project applying docker, kubernetes, aws\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2024 hackathon\n",
+    "job_description_text": "We are hiring a DevOps Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: docker, kubernetes, aws, terraform, ci/cd, linux, git\nPreferred Skills: ansible, jenkins, azure, python\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 44,
+    "domain": "devops_engineer",
+    "job_title": "DevOps Engineer",
+    "expected_match_level": "moderate",
+    "resume_text": "Isha Kapoor\nisha.kapoor43@email.com | 9616854671 | linkedin.com/in/ishakapoor\n\nEducation\nBachelor of Computer Applications, State University, 2023\n\nSkills\ndocker, kubernetes, aws\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on devops engineer related tasks using docker\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 37%\n\nProjects\nDevOps Engineer Mini Project\n- Built a project applying docker, kubernetes, aws\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a DevOps Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: docker, kubernetes, aws, terraform, ci/cd, linux, git\nPreferred Skills: ansible, jenkins, azure, python\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 45,
+    "domain": "devops_engineer",
+    "job_title": "DevOps Engineer",
+    "expected_match_level": "strong",
+    "resume_text": "Karan Singh\nkaran.singh44@email.com | 9276777762 | linkedin.com/in/karansingh\n\nEducation\nDiploma in Computer Engineering, City Polytechnic, 2022\n\nSkills\ndocker, kubernetes, aws, terraform, ci/cd, linux, git, ansible, jenkins\n\nExperience\n2023 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on devops engineer related tasks using docker\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 10%\n\nProjects\nDevOps Engineer Mini Project\n- Built a project applying docker, kubernetes, aws\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2024 hackathon\n",
+    "job_description_text": "We are hiring a DevOps Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: docker, kubernetes, aws, terraform, ci/cd, linux, git\nPreferred Skills: ansible, jenkins, azure, python\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 46,
+    "domain": "devops_engineer",
+    "job_title": "DevOps Engineer",
+    "expected_match_level": "weak",
+    "resume_text": "Ananya Rao\nananya.rao45@email.com | 9941889393 | linkedin.com/in/ananyarao\n\nEducation\nB.Tech in Computer Science, XYZ Institute of Technology, 2025, CGPA 8.2\n\nSkills\nsql, excel, python\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on devops engineer related tasks using sql\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 23%\n\nProjects\nDevOps Engineer Mini Project\n- Built a project applying sql, excel, python\n- Achieved measurable improvement in project outcomes\n\nCertifications\nNone\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a DevOps Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: docker, kubernetes, aws, terraform, ci/cd, linux, git\nPreferred Skills: ansible, jenkins, azure, python\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 47,
+    "domain": "devops_engineer",
+    "job_title": "DevOps Engineer",
+    "expected_match_level": "moderate",
+    "resume_text": "Vikram Nair\nvikram.nair46@email.com | 9303901283 | linkedin.com/in/vikramnair\n\nEducation\nB.E. in Electronics and Computer Engineering, ABC University, 2026, CGPA 7.9\n\nSkills\ndocker, kubernetes, aws\n\nExperience\n2024 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on devops engineer related tasks using docker\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 16%\n\nProjects\nDevOps Engineer Mini Project\n- Built a project applying docker, kubernetes, aws\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a DevOps Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: docker, kubernetes, aws, terraform, ci/cd, linux, git\nPreferred Skills: ansible, jenkins, azure, python\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 48,
+    "domain": "devops_engineer",
+    "job_title": "DevOps Engineer",
+    "expected_match_level": "weak",
+    "resume_text": "Priya Iyer\npriya.iyer47@email.com | 9889991777 | linkedin.com/in/priyaiyer\n\nEducation\nM.Tech in Data Science, National Institute of Technology, 2024\n\nSkills\npython, tensorflow, pytorch\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on devops engineer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 11%\n\nProjects\nDevOps Engineer Mini Project\n- Built a project applying python, tensorflow, pytorch\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2025 hackathon\n",
+    "job_description_text": "We are hiring a DevOps Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: docker, kubernetes, aws, terraform, ci/cd, linux, git\nPreferred Skills: ansible, jenkins, azure, python\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 49,
+    "domain": "devops_engineer",
+    "job_title": "DevOps Engineer",
+    "expected_match_level": "weak",
+    "resume_text": "Arjun Reddy\narjun.reddy48@email.com | 9611947770 | linkedin.com/in/arjunreddy\n\nEducation\nBachelor of Computer Applications, State University, 2023\n\nSkills\npython, django, flask\n\nExperience\n2026 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on devops engineer related tasks using python\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 40%\n\nProjects\nDevOps Engineer Mini Project\n- Built a project applying python, django, flask\n- Achieved measurable improvement in project outcomes\n\nCertifications\nAWS Certified Cloud Practitioner\n\nAchievements\nRecognized as top performer in 2023 hackathon\n",
+    "job_description_text": "We are hiring a DevOps Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: docker, kubernetes, aws, terraform, ci/cd, linux, git\nPreferred Skills: ansible, jenkins, azure, python\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  },
+  {
+    "id": 50,
+    "domain": "devops_engineer",
+    "job_title": "DevOps Engineer",
+    "expected_match_level": "moderate",
+    "resume_text": "Sneha Gupta\nsneha.gupta49@email.com | 9173574218 | linkedin.com/in/snehagupta\n\nEducation\nDiploma in Computer Engineering, City Polytechnic, 2022\n\nSkills\ndocker, kubernetes, aws\n\nExperience\n2025 - Present: Software Engineer Intern, TechNova Solutions\n- Worked on devops engineer related tasks using docker\n- Collaborated with a team of 5 to deliver features on schedule\n- Improved system performance by 31%\n\nProjects\nDevOps Engineer Mini Project\n- Built a project applying docker, kubernetes, aws\n- Achieved measurable improvement in project outcomes\n\nCertifications\nGoogle Data Analytics Certificate\n\nAchievements\nRecognized as top performer in 2024 hackathon\n",
+    "job_description_text": "We are hiring a DevOps Engineer.\n\nAbout the role: You will work with our engineering team to build and ship product features.\n\nRequired Skills: docker, kubernetes, aws, terraform, ci/cd, linux, git\nPreferred Skills: ansible, jenkins, azure, python\n\nRequirements: 2+ years of experience. Bachelor degree in Computer Science, Engineering, or related field required.\n"
+  }
+]

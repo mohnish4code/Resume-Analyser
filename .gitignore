@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Database
+data/history/*.db
+
+# Uploaded files
+data/uploads/*
+!data/uploads/.gitkeep
+
+# ZIP / archive files
+*.zip
+.zip/
+data/zip/
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
