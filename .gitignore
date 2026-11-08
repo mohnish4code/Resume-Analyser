@@ -34,3 +34,5 @@ data/zip/
 
 # Logs
 *.log
+# Real resumes used for local testing (personal data, never commit)
+data/Resumes/
